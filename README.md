@@ -1,4 +1,4 @@
-# M2_Banking_System_Application
+# M2_Java_Banking_System_Project
 
 BANK MANAGEMENT SYSTEM IN JAVA WITH SOURCE CODE
 
