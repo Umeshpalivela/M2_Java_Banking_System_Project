@@ -14,29 +14,20 @@
 
 -   Two modes of logins provided namely admin and user.The 2 modes have different functionalities, elaborated below.
 
-    -   User requires empty password
+    -   User requires admin as password
     -   Admin requires password 'admin' to login.
 
 -   User mode consists of options:
     -   Create new Account, which requires the data
-        -   Date of creation.
-        -   Account number.
         -   Name of the Account holder.
         -   Date of birth.
         -   Age.
-        -   Address.
-        -   Citizenship number.
-        -   Phone number.
+        -   Address
         -   Amount to be deposited.
         -   Type of account:
             -   Savings
             -   Current
-            -   Fixed1 (for 1 year)
-            -   Fixed2 (for 2 years)
-            -   Fixed3 (for 3 years)
-    -   Update information of existing account. Which gives the choice of changing
-        -   Address
-        -   Phone
+            -   Student
     -   For transations (Requires Account number). Gives you 2 choices:
         -   Deposit
         -   Withdraw
