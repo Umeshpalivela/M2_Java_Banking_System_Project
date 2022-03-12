@@ -1,6 +1,8 @@
 # M2_Java_Banking_System_Project
+===
 
-! [Code Quality Sccore](https://api.codiga.io/project/31925/status/svg)
+![Code Quality Sccore](https://api.codiga.io/project/31925/status/svg)   
+
 BANK MANAGEMENT SYSTEM IN JAVA WITH SOURCE CODE
 
 About Project Bank Management System is based on a concept of recording customer’s account details. Firstly user has to login with username of admin and password of same username admin. Here the user can perform all the tasks like creating an account, deposit amount, withdraw amount, view all account holders detail, close an account and modify an account. All the main features for banking system are set in this project.
