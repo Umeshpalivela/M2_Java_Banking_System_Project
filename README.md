@@ -12,10 +12,10 @@ In order to run the project, you can use command prompt or install Net beans or 
 
 Features:
 
-*Create an account:- 
+* Create an account:- 
     1.Savings Account 
     2.Current Account
     3.Student Account
-*Deposit amount
-*List account holder’s detail
-*Exit
+* Deposit amount
+* List account holder’s detail
+* Exit
