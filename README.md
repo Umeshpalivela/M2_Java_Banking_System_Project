@@ -1,7 +1,8 @@
 # M2_Java_Banking_System_Project
-===
-![Code Quality Score](https://api.codiga.io/project/31925/score/svg)   
-![Code Quality Grade](https://api.codiga.io/project/31925/status/svg)   
+===   
+
+# ![Code Quality Score](https://api.codiga.io/project/31925/score/svg)   
+# ![Code Quality Grade](https://api.codiga.io/project/31925/status/svg)   
 
 BANK MANAGEMENT SYSTEM IN JAVA WITH SOURCE CODE
 
